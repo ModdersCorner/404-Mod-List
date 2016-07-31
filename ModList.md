@@ -47,7 +47,6 @@
 |journeymap-1.10.2-5.2.4-unlimited.jar|
 |JustEnoughResources-1.10.2-0.4.6.43.jar|
 |k4lib-1.9.4-1.0.5-universal.jar|
-|list.sh*|
 |LoadingProfiler-MC1.9.4-1.3.jar|
 |Mantle-1.10-0.10.3.jar|
 |mcjtylib-1.10-1.9.8.jar|
